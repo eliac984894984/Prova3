@@ -4,4 +4,5 @@ using namespace std;
 class Ciao{
 public: 
 	int lima;
+	int dim;
 };
