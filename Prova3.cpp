@@ -6,4 +6,5 @@ public:
 	int lima;
 	int dim;
 	int numerocaselle;
+	int gazzella:
 };
