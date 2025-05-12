@@ -5,4 +5,5 @@ class Ciao{
 public: 
 	int lima;
 	int dim;
+	int numerocaselle;
 };
